@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {                 
+    height: 100vh;
+    display: flex;
+    align-items: flex-start; /* Aligning the content at the top */
+    justify-content: center;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    background-color: rgb(225, 210, 231);
+}
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start; /* Aligning the clock at the top */
+    justify-content: center;
+    padding-top: 50px; /* Adding space from the top */
+}
+.container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.clock {
+    position: relative;
+    z-index: 1;
+    border: 2px solid #606060;
+    color: white;
+    padding: 0px;
+    border-radius: 10px;
+    backdrop-filter: blur(3px);
+}
+#Date {
+    font-size: 20px !important;
+    text-align: center;
+}
+.clock ul {
+    list-style: none;
+    display: flex;
+    font-size: 90px;
+    gap: 15px;
+}
