@@ -26,10 +26,8 @@ If you'd like to run the clock locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/digital-clock.git
-Navigate to the project folder:
-
-bash
-Copy code
+2.Navigate to the project folder:
+  ---bash
 cd digital-clock
 Open the index.html file in your browser.
 
@@ -44,6 +42,4 @@ License
 This project is open-source and available under the MIT License.
 
 sql
-Copy code
-
 You can replace the image link in the demo section with a real screenshot of your clock if available
