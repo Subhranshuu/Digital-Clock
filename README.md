@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Digital Clock
 
 A simple digital clock project showcasing real-time updates, built with HTML, CSS, and JavaScript. This project demonstrates the basic workings of a digital clock, displaying hours, minutes, and seconds.
@@ -8,9 +6,6 @@ A simple digital clock project showcasing real-time updates, built with HTML, CS
 
 Check out the live demo of the Digital Clock:  
 [Digital Clock Live Demo](https://main--digita-clock-subhranshu.netlify.app/)
-
-![Digital Clock Screenshot](https://main--digita-clock-subhranshu.netlify.app/screenshot.png)  
-*(Replace the link above with an actual screenshot of your app)*
 
 ## Features
 
@@ -31,7 +26,6 @@ Check out the live demo of the Digital Clock:
    git clone https://github.com/yourusername/digital-clock.git
 Navigate to the project folder:
 bash
-Copy code
 cd digital-clock
 Open the index.html file in your browser to view the clock.
 Deployment
@@ -43,9 +37,6 @@ Feel free to contribute to this project by submitting issues or creating pull re
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-markdown
-Copy code
 
 ### Steps to use the README file:
 
